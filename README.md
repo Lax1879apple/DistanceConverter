@@ -1,1 +1,1 @@
-# speedConverter
+# DistanceConverter
